@@ -1,5 +1,5 @@
-a=2>3
-print(a)
+#a=2>3 sample python program
+#print(a)
 print(type(a))
 a="welcome to python"
 print(a)
