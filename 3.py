@@ -4,4 +4,4 @@
 s="pushpanjali"
 print(s[1])
 p='anajli'
-print(s[0:6])
+print(p[0:6])
