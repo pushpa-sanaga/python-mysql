@@ -3,3 +3,5 @@
 #print(a,A)
 s="pushpanjali"
 print(s[1])
+p='anajli'
+print(s[0:6])
